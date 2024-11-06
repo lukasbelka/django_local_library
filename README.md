@@ -1,2 +1,5 @@
-# django_local_library
-Local Lib website written in Django
+# Text backup files
+*.bak
+
+# Database
+*.sqlite3
